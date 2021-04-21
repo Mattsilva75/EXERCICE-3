@@ -1,0 +1,31 @@
+p{
+	color: blue;
+	font-family: arial;
+}
+
+
+.section{
+	display: flex;
+}
+
+.text{
+	display: flex;
+}
+
+img{
+	display: flex;
+	height: 200px;
+	margin-left: 20px;
+}
+
+a{	
+	font-family: arial;
+	text-decoration: none;
+	font-weight: bold;
+	color: black
+}
+
+a:hover{
+	color: orange;
+	text-decoration: underline;
+}
